@@ -40,7 +40,7 @@ public class Bootcamp {
 
     public Set<Dev> getDevsInscritos() {
         return devsInscritos;
-    }
+
 
     public void setDevsInscritos(Set<Dev> devsInscritos) {
         this.devsInscritos = devsInscritos;
